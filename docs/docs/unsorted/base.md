@@ -385,8 +385,3 @@ just something to be aware of
 
 
 $env = getenv('APP_ENV') ?? $_SERVER['APP_ENV'] ?? $_SERVER['HTTP_APP_ENV'] ?? self::PROD;
-
-
-skifia.myjino.ru
-skifia_orlov
-m08blFgq%Wx7s$
